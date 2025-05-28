@@ -1,0 +1,8 @@
+sin x + 5.4; cos x + 5.4
+x+π + 0,1(x-8) + cos x + 2; sin x + 2
+sin x + 5.5; cos x + 5.5
+sin x - 5.5; cos x - 5.5
+x+π + 0,1(x-8) + cos x + 2.05; sin x + 2.05
+x+π + 0,1(x-8) + cos x+0.1; sin x+0.1
+x+π + 0,1(x-8) + cos x; sin x
+sin x - 5.4; cos x - 5.4

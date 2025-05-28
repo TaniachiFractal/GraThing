@@ -1,0 +1,4 @@
+sin x
+sin (6x)-12; cos (0.6x)-11
+sin (x)-18; 0.1cos (x)-24
+sin (x)-18; 0.1cos (x)-23

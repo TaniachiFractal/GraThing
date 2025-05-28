@@ -1,0 +1,9 @@
+0.5(sin (x)); (cos (2x)) - 12.6
+0.3(sin (x)); (cos (2x)) - 12.6
+0.1(sin (x)); (cos (2x)) - 12.6
+0.7(sin (x)); (cos (2x)) - 12.6
+0.9(sin (x)); (cos (2x)) - 12.6
+0.8 cos t; 6 sin t *(1-0.5sin t)-3
+0.6 cos t; 1.5 sin t *(1-0.5sin t)-10
+0.3 cos t; 1.5 sin t *(1-0.5sin t)-10
+0.1 cos t; 1.5 sin t *(1-0.5sin t)-10

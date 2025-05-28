@@ -1,0 +1,10 @@
+sin t(e^(cos t)-3cos(4t)+(sin (1/12t)^5));cos t(e^(cos t)-3cos(4t)+(sin (1/12t)^5))
+sin t(e^(cos t)-2cos(4t)+(sin (1/12t)^5));cos t(e^(cos t)-2cos(4t)+(sin (1/12t)^5))
+acos t-0.5pi
+asin t
+sin (t);-cos (2t)+3
+0.6sin t; 0.6cos t+2
+0.3sin t; 1.3cos t
+asin t; 0
+0.3; 2
+-0.3; 2

@@ -1,0 +1,10 @@
+-cos t;min(sin t; tan t)+1
+-cos t;min(sin t; tan t)+2
+-cos t;min(sin t; tan t)+3
+-cos t;min(sin t; tan t)+4
+-cos t;min(sin t; tan t)+5
+-cos t;min(sin t; tan t)+6
+-cos t;min(sin t; tan t)+8
+-cos t;min(sin t; tan t)+7
+-cos t;min(sin t; tan t)+9
+-cos t;min(sin t; tan t)+10

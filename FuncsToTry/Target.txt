@@ -1,0 +1,8 @@
+0.5 sin x; 0.5 cos x
+sin x; cos x
+1.5 sin x; 1.5 cos x
+0.1 sin x; 0.1 cos x
+sqrt(2) sin x; sqrt(2) cos x
+-x
+0.7asin (5x); -x
+0.3asin x; -x
